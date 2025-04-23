@@ -72,7 +72,7 @@ Make sure the dataset CSV file is placed in the correct path as defined in the c
 - Feature Distributions
 - Comparison Bar Charts (MAE, RMSE, R²)
 
-![example-plot](plots/performance_comparison.png)
+![example-plot](plots/metric_comparison.png)
 
 ---
 
