@@ -22,7 +22,7 @@ from tensorflow.keras.callbacks import ReduceLROnPlateau
 # # Data Preprocessing
 
 # %%
-df = pd.read_csv('E:/projects/HumanCogntiveScore prediction/human_cognitive_performance.csv')
+df = pd.read_csv(r'E:\projects\HumanCogntiveScore prediction\data\human_cognitive_performance.csv')
 
 # One-hot encoding and cleanup
 df = pd.get_dummies(df, columns=['Gender', 'Diet_Type', 'Exercise_Frequency'], drop_first=True)
