@@ -31,7 +31,7 @@ Preprocessing steps included:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/cognitive-performance-prediction.git
+git clone https://github.com/AMhablus/cognitive-performance-prediction.git
 cd cognitive-performance-prediction
 ```
 
